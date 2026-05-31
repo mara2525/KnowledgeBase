@@ -6,9 +6,10 @@ Formatting and mechanical rules that apply to all content.
 
 When "concise" is requested, that means under 200 words, preferably under 100 words.
 
-1. Get to the point quickly and eliminate unnecessary words.
-2. If concise content is not specified, you can be more thorough.
-3. Respect this strict word limit when concise content is requested.
+1. This applies to all written communications: emails, LinkedIn messages, chat responses, summaries.
+2. Get to the point quickly and eliminate unnecessary words.
+3. If concise content is not specified, you can be more thorough.
+4. Respect this strict word limit when concise content is requested.
 
 ## Keyword-Led List Items (Consulting Deliverables)
 
@@ -22,7 +23,10 @@ Examples:
 
 1. **Core system of record** - Keep Aligne as the authoritative source for transactions, operational workflows, and controlled commercial processing.
 2. **V26 upgrade** - Deliver clear workflow ownership, cleaner integrations, stronger controls, and better testing discipline.
-3. **User burden** - Reduce it by applying VG knowledge, existing documentation, earlier discovery outputs, and targeted workshops.
+3. **Data lake path** - Architect the Aligne implementation to support future analytics, optimization, and AI without turning this engagement into a production data lake build.
+4. **Functional scope** - Keep settlement, invoicing, reporting, and accounting handoff impacts inside the broader Aligne implementation.
+5. **User burden** - Reduce it by applying VG knowledge, existing documentation, earlier discovery outputs, and targeted workshops.
+6. **Roadmap** - Leave PSEG with an actionable plan for a future data lake, self-service analytics, optimization, and AI program.
 
 ## Punctuation
 
@@ -36,6 +40,7 @@ Never use em dashes (—) in any content, ever.
    b. Use a comma
    c. Use a hyphen/dash (not em dash)
    d. Use a period and start a new sentence
+3. This is a hard rule with no exceptions.
 
 ### Colons as Separators
 
