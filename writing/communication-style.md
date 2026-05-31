@@ -1,0 +1,54 @@
+# Communication Style
+
+Formatting and mechanical rules that apply to all content.
+
+## Conciseness
+
+When "concise" is requested, that means under 200 words, preferably under 100 words.
+
+1. Get to the point quickly and eliminate unnecessary words.
+2. If concise content is not specified, you can be more thorough.
+3. Respect this strict word limit when concise content is requested.
+
+## Keyword-Led List Items (Consulting Deliverables)
+
+Every list item in formal deliverables, proposals, and reports must open with a bold keyword or short phrase, followed by a hyphen-dash, followed by the supporting detail. This does not apply to chat responses or emails.
+
+1. The keyword names the idea; the detail explains or qualifies it.
+2. Use a hyphen-dash ( - ) as the separator, never an em dash or colon.
+3. Keep the keyword short (1-4 words); keep the supporting detail to one sentence.
+
+Examples:
+
+1. **Core system of record** - Keep Aligne as the authoritative source for transactions, operational workflows, and controlled commercial processing.
+2. **V26 upgrade** - Deliver clear workflow ownership, cleaner integrations, stronger controls, and better testing discipline.
+3. **User burden** - Reduce it by applying VG knowledge, existing documentation, earlier discovery outputs, and targeted workshops.
+
+## Punctuation
+
+### Em Dashes
+
+Never use em dashes (—) in any content, ever.
+
+1. This applies to all content: emails, documents, chat responses, release notes, reports, everything.
+2. Alternatives to use instead:
+   a. Rewrite the sentence to avoid the pause
+   b. Use a comma
+   c. Use a hyphen/dash (not em dash)
+   d. Use a period and start a new sentence
+
+### Colons as Separators
+
+Never use a colon as a separator or introductory punctuation in copy.
+
+1. Use a hyphen/dash instead (e.g., "Next steps - FSS to document workflow" not "Next steps: FSS to document workflow")
+2. Colons are acceptable only in list labels that are part of structured document formatting (e.g., "To:", "Subject:" in email headers)
+3. This applies to emails, documents, chat responses, and all other content.
+
+## Paragraph Alignment
+
+Always use left-aligned paragraphs unless explicitly stated otherwise.
+
+1. Never use justified alignment for paragraphs.
+2. This applies to all documents: Word docs, cover letters, emails, presentations.
+3. Only use center or right alignment when explicitly requested.
