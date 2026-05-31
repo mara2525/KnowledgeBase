@@ -50,6 +50,14 @@ Never use a colon as a separator or introductory punctuation in copy.
 2. Colons are acceptable only in list labels that are part of structured document formatting (e.g., "To:", "Subject:" in email headers)
 3. This applies to emails, documents, chat responses, and all other content.
 
+## Links and URLs
+
+Always render URLs as markdown hyperlinks, never as bare plaintext URLs.
+
+1. Use `[descriptive text](url)` syntax so links are clickable.
+2. The link text should describe the destination, not repeat the raw URL.
+3. This applies to all chat responses, documents, and written content.
+
 ## Paragraph Alignment
 
 Always use left-aligned paragraphs unless explicitly stated otherwise.
