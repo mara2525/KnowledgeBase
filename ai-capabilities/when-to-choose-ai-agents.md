@@ -10,7 +10,7 @@ updatedAt: "2026-05-19"
 
 ## Overview
 
-Not every automation problem needs an AI agent. Agents are the right tool when a process requires judgment, coordination across multiple steps or systems, and the ability to adapt based on intermediate outputs. The four scenarios below cover the most common business situations where agents outperform traditional automation.
+Not every automation problem needs an AI. Agents are the right tool when a process requires judgment, coordination across multiple steps or systems, and the ability to adapt based on intermediate outputs. The four scenarios below cover the most common business situations where agents outperform traditional automation.
 
 Each scenario shares a common thread - humans are doing repetitive cognitive work that AI can handle faster, more consistently, and at a scale no team can sustain.
 
