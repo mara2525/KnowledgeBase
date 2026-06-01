@@ -1,22 +1,62 @@
+---
+title: "Software Product Strategy"
+slug: "software-product-strategy"
+category: "product"
+order: 1
+summary: "Framework for evaluating software investments, scoping product decisions, and understanding how technology serves business. Derived from the Purpose of Business framework."
+tags: ["Product", "Strategy", "Investment", "Frameworks"]
+conviction: "tight"
+foundation: "purpose-of-business"
+updatedAt: "2026-05-31"
+---
+
 # Software Product Strategy
 
-Rules for evaluating software investments, scope decisions, and product direction. These are tightly held.
+Rules for evaluating software investments, scope decisions, and product direction.
 
-## Value Orientation
+## How Technology Serves Business
 
-Software creates value for businesses in four ways. The first two are the strongest outcomes and the clearest path to product-market fit. The latter two are real but require different expectations.
+*Derived from [The Purpose of Business](../frameworks/purpose-of-business.md)*
 
-**Primary outcomes (strongest ROI, clearest business case):**
+Technology delivers value to a business in four ways. The first three represent motivated buying decisions where the client actively wants the outcome. The fourth is a forced obligation.
 
-1. Help clients make money - new revenue, new capabilities, or competitive advantage that directly drives growth
-2. Help clients save money - cost reduction through automation, efficiency, or headcount leverage
+| Outcome | What It Means |
+|---|---|
+| **Increase Revenue** | Make the business more money |
+| **Decrease Spending** | Save the business money |
+| **Improve Processes** | Make something easier or better |
 
-**Secondary outcomes (real value, less direct correlation):**
+*Clients are willing buyers for these three outcomes. They see the value and want to invest.*
 
-3. Help businesses measurably improve processes through software - this often produces financial value indirectly (e.g., saving employee time), but the correlation to revenue or cost savings may not be immediate or obvious to the client; these require more education to sell and retain
-4. Help businesses achieve regulatory or compliance requirements (insurance standards, legal obligations, OSHA, Sarbanes-Oxley, etc.) - these are profitable engagements but harder sells because clients often feel compelled rather than motivated; budget expectations are lower and enthusiasm is limited
+---
 
-When proposing or evaluating scope, always identify which of these four outcomes the work addresses and calibrate the business case accordingly.
+| Outcome | What It Means |
+|---|---|
+| **Compliance Requirements** | Business must do this |
+
+*Clients are reluctant buyers for compliance work. They are compelled to spend, not motivated to.*
+
+---
+
+### Increase Revenue
+
+The strongest outcome. New revenue streams, competitive advantage, or capability unlocks that directly drive business growth. Clients are motivated, budgets are available, and the business case is easy to articulate. This is the clearest path to product-market fit.
+
+### Decrease Spending
+
+A strong outcome. Cost reduction through automation, efficiency gains, or headcount leverage. Clients actively want this and the ROI is usually measurable and direct.
+
+### Improve Processes
+
+A real outcome, but a harder sell. The financial value is often indirect - saving employee time, reducing errors, improving consistency. The correlation to revenue or cost savings may not be immediate or obvious to the client. These engagements require more education to sell and more effort to demonstrate ongoing value.
+
+### Compliance Requirements
+
+The most difficult engagement type. The client is not choosing to invest; they are required to by legal, regulatory, or insurance obligations (e.g., OSHA, Sarbanes-Oxley, insurance standards). Budget expectations are lower, enthusiasm is limited, and the engagement often feels adversarial rather than collaborative. These can be profitable for the consultant but require different expectations going in.
+
+When proposing or evaluating scope, identify which of these four outcomes the work addresses and calibrate the business case, pricing, and stakeholder approach accordingly.
+
+---
 
 ## Economic Feasibility
 

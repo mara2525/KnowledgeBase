@@ -38,6 +38,16 @@ Never use comma-paired contrasting phrases in any content.
    c. "Signal, Not Noise"
    d. "Progress, Not Perfection"
    e. "Clarity, Not Complexity"
-2. These phrases are opaque to first-time readers and signal AI-generated content.
-3. Instead, write a plain sentence that explains the actual distinction or point being made.
-4. This applies to all content: chat responses, documentation, emails, UI copy, headers, release notes, everything.
+   f. "starting points, not constraints"
+   g. "a recommendation, not a list of options"
+   h. "informed input, not directives"
+   i. "starting point, not a rulebook"
+2. The pattern also appears mid-sentence, not just as standalone headers or slogans. Any "X, not Y" construction where both sides name a thing is a violation, regardless of capitalization or position in the sentence.
+3. These phrases are opaque to first-time readers and signal AI-generated content.
+4. Instead, write a plain sentence that explains the actual distinction or point being made.
+   a. Bad: "Her implementation preferences are starting points, not constraints."
+   b. Good: "Her implementation preferences are a reasonable starting point that can be updated when current practice diverges from them."
+   c. Bad: "Lead with a recommendation, not a list of options."
+   d. Good: "Lead with a recommendation. Mara prefers an informed point of view over a neutral menu of choices."
+5. The pattern is especially tempting when articulating calibration rules, preferences, or distinctions between two approaches. That is exactly when to stop and rewrite as a plain sentence.
+6. This applies to all content: chat responses, documentation, emails, UI copy, headers, release notes, everything.

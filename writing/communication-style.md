@@ -1,5 +1,16 @@
 # Communication Style
 
+## Scope of These Rules
+
+These preferences apply universally, without exception, across all of the following:
+
+1. **Chat responses** - everything written directly to the user in conversation
+2. **Generated content** - emails, documents, reports, proposals, and any other deliverable
+3. **Generated code** - comments, strings, documentation, commit messages, and any human-readable text inside code
+4. **All other output** - if Mara can read it, these rules apply to it
+
+No rule in this file is limited to one type of output. If a rule exists here, it applies everywhere.
+
 Formatting and mechanical rules that apply to all content.
 
 ## Conciseness

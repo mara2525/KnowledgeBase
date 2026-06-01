@@ -6,7 +6,9 @@
       "Bash(git -C \"C:\\\\Users\\\\maraj\\\\Documents\\\\GitHub\\\\KnowledgeBase\" diff)",
       "Bash(git -C \"C:\\\\Users\\\\maraj\\\\Documents\\\\GitHub\\\\KnowledgeBase\" log --oneline -5)",
       "Bash(git -C \"C:\\\\Users\\\\maraj\\\\Documents\\\\GitHub\\\\KnowledgeBase\" ls-files --others --exclude-standard product/ .claude/)",
-      "Bash(git -C \"C:\\\\Users\\\\maraj\\\\Documents\\\\GitHub\\\\KnowledgeBase\" add ai/CLAUDE.md frameworks/how-i-work.md writing/communication-style.md product/ .claude/settings.json)"
+      "Bash(git -C \"C:\\\\Users\\\\maraj\\\\Documents\\\\GitHub\\\\KnowledgeBase\" add ai/CLAUDE.md frameworks/how-i-work.md writing/communication-style.md product/ .claude/settings.json)",
+      "Bash(git -C 'C:\\\\Users\\\\maraj\\\\Documents\\\\GitHub\\\\KnowledgeBase' commit -m ' *)",
+      "Bash(git -C \"C:\\\\Users\\\\maraj\\\\Documents\\\\GitHub\\\\KnowledgeBase\" push)"
     ]
   }
 }
