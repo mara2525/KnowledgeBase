@@ -1,3 +1,13 @@
+---
+title: "How I Work"
+slug: "how-i-work"
+category: "frameworks"
+order: 2
+summary: "Context for AI agents on Mara's background, expertise, and how to calibrate responses when working with her."
+tags: ["Context", "AI Calibration", "Frameworks"]
+updatedAt: "2026-06-01"
+---
+
 # How I Work
 
 Context for AI agents on Mara's background and how to calibrate when working with her.

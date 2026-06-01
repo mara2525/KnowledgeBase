@@ -1,3 +1,14 @@
+---
+title: "Coding Guidelines"
+slug: "coding-guidelines"
+category: "engineering"
+order: 1
+summary: "Rules for writing, reviewing, and planning software applied to code, PRs, system design, and implementation advice."
+tags: ["Engineering", "Code", "Guidelines", "Development"]
+conviction: "moderate"
+updatedAt: "2026-06-01"
+---
+
 # Coding Guidelines
 
 Rules for writing, reviewing, and planning software. Apply these whenever writing code, evaluating a pull request, designing a system, or advising on implementation.

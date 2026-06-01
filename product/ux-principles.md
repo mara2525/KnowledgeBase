@@ -1,3 +1,14 @@
+---
+title: "UX Principles"
+slug: "ux-principles"
+category: "product"
+order: 2
+summary: "Tightly held rules for UI and UX design, applied to any software being designed, evaluated, or critiqued."
+tags: ["UX", "Design", "Product", "Principles"]
+conviction: "tight"
+updatedAt: "2026-06-01"
+---
+
 # UX Principles
 
 Rules for UI and UX design. These are tightly held. Apply them to any software being designed, evaluated, or critiqued.

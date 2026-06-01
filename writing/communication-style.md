@@ -1,3 +1,14 @@
+---
+title: "Communication Style"
+slug: "communication-style"
+category: "writing"
+order: 1
+summary: "Universal rules for how content is structured, formatted, and expressed across all written output."
+tags: ["Writing", "Style", "Communication", "Formatting"]
+conviction: "tight"
+updatedAt: "2026-06-01"
+---
+
 # Communication Style
 
 ## Scope of These Rules

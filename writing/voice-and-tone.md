@@ -1,3 +1,14 @@
+---
+title: "Voice and Tone"
+slug: "voice-and-tone"
+category: "writing"
+order: 3
+summary: "Rules for active voice, sentence construction, and phrasing patterns to avoid across all writing."
+tags: ["Writing", "Voice", "Tone", "Style"]
+conviction: "tight"
+updatedAt: "2026-06-01"
+---
+
 # Voice and Tone
 
 Rules for how ideas are expressed - active ownership, sentence construction, and phrasing patterns to avoid.

@@ -1,3 +1,14 @@
+---
+title: "List Formatting Rules"
+slug: "list-formatting"
+category: "writing"
+order: 2
+summary: "Mandatory rule requiring numbered lists over bulleted lists in all content without exception."
+tags: ["Writing", "Formatting", "Lists"]
+conviction: "tight"
+updatedAt: "2026-06-01"
+---
+
 # List Formatting Rules (MANDATORY - NO EXCEPTIONS)
 
 **NEVER use unordered/bulleted lists (- or *). ALWAYS use ordered/numbered lists.**
