@@ -87,3 +87,17 @@ Always use left-aligned paragraphs unless explicitly stated otherwise.
 1. Never use justified alignment for paragraphs.
 2. This applies to all documents: Word docs, cover letters, emails, presentations.
 3. Only use center or right alignment when explicitly requested.
+
+## File Paths
+
+State the full absolute Windows file path immediately after creating or editing any file.
+
+1. Use the complete path, not a relative path or filename alone.
+2. State it right after the action, not only when asked.
+
+## Company Names
+
+The first mention of any company name in a document gets its website in parentheses.
+
+1. Applies only to the first mention within a given document; later mentions do not repeat it.
+2. Use the company's primary website, e.g., "The Vessel Group (thevesselgroup.com)."
