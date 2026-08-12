@@ -6,7 +6,7 @@ order: 1
 summary: "Universal rules for how content is structured, formatted, and expressed across all written output."
 tags: ["Writing", "Style", "Communication", "Formatting"]
 conviction: "tight"
-updatedAt: "2026-06-01"
+updatedAt: "2026-08-12"
 ---
 
 # Communication Style
@@ -66,11 +66,12 @@ Never use em dashes (—) in any content, ever.
 
 ### Colons as Separators
 
-Never use a colon as a separator or introductory punctuation in copy.
+A hyphen-dash is the default separator or introductory punctuation in copy, not a colon.
 
-1. Use a hyphen/dash instead (e.g., "Next steps - FSS to document workflow" not "Next steps: FSS to document workflow")
-2. Colons are acceptable only in list labels that are part of structured document formatting (e.g., "To:", "Subject:" in email headers)
-3. This applies to emails, documents, chat responses, and all other content.
+1. Use a hyphen/dash by default (e.g., "Next steps - FSS to document workflow" not "Next steps: FSS to document workflow")
+2. A colon is acceptable where a list carries multiple separators and a hyphen-dash would read ambiguously.
+3. Colons are also acceptable in list labels that are part of structured document formatting (e.g., "To:", "Subject:" in email headers)
+4. This applies to emails, documents, chat responses, and all other content.
 
 ## Links and URLs
 
@@ -101,3 +102,18 @@ The first mention of any company name in a document gets its website in parenthe
 
 1. Applies only to the first mention within a given document; later mentions do not repeat it.
 2. Use the company's primary website, e.g., "The Vessel Group (thevesselgroup.com)."
+
+## Consistent Nomenclature
+
+Use one label for one concept throughout a document.
+
+1. Once a term is chosen for a concept, do not swap in a synonym or a shortened variant later in the same document.
+2. Caught in review: "Count" in one section and "Body count" in the next for the same idea.
+3. Applies to all documents, reports, proposals, and decks.
+
+## Detail in the Wrong Place
+
+Too much detail in an opening or a summary is a signal that the writer has not decided what matters.
+
+1. Specifics such as phase names, hour estimates, and system names belong in the body, not the opening or summary.
+2. An opening or summary should orient the reader, not front-load the details that belong later.

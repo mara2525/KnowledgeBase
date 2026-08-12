@@ -6,7 +6,7 @@ order: 3
 summary: "Rules for active voice, sentence construction, and phrasing patterns to avoid across all writing."
 tags: ["Writing", "Voice", "Tone", "Style"]
 conviction: "tight"
-updatedAt: "2026-06-01"
+updatedAt: "2026-08-12"
 ---
 
 # Voice and Tone
@@ -62,3 +62,33 @@ Never use comma-paired contrasting phrases in any content.
    d. Good: "Lead with a recommendation. Mara prefers an informed point of view over a neutral menu of choices."
 5. The pattern is especially tempting when articulating calibration rules, preferences, or distinctions between two approaches. That is exactly when to stop and rewrite as a plain sentence.
 6. This applies to all content: chat responses, documentation, emails, UI copy, headers, release notes, everything.
+
+## Opaque Shorthand
+
+Never invent a compact phrase that makes the reader work out what it means.
+
+1. Examples caught in review: "show the shape," "the concrete fact the word was standing in for," "brand as a layer."
+2. Write the plain instruction instead. "Show the shape of the scope" becomes "Include a visual showing which workstreams run in parallel."
+3. If a reader has to read a sentence twice to understand it, rewrite it.
+
+## Leading Statements That Do Not Deliver
+
+Never announce that something exists and then fail to state it plainly.
+
+1. Bad: "The failure has a name and a fixed remedy."
+2. Good: "The failure is undifferentiated scope."
+3. The announcement costs a sentence and delays the point.
+
+## Metaphor in Place of Plain Description
+
+Do not describe a business concept through a metaphor borrowed from another field when a plain word exists.
+
+1. "Symptoms rather than causes" borrows from medicine and states nothing specific.
+2. Name the actual thing instead of reaching for a metaphor from an unrelated domain.
+
+## Stacked Compound Sentences
+
+A paragraph carrying more than two "and" or "while" connectors gets broken up.
+
+1. Each sentence carries one idea.
+2. Split overloaded sentences at the connector rather than adding more clauses.
