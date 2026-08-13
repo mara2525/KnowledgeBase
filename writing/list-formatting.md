@@ -52,3 +52,6 @@ updatedAt: "2026-06-01"
    b. "All key corrections:"
       - WRONG: "- Generated e-signature..."
       - CORRECT: "1. Generated e-signature..."
+   c. Caught in the KwikTrip proposal teardown (2026-08-12), a step further than bullets, not a list at all: six items presented as separate bold-lead prose paragraphs ("**Contract ingestion and classification.** Load approved agreements...") with no list markers of any kind.
+      - WRONG: bold phrase, period, sentence, repeated as standalone paragraphs
+      - CORRECT: "1. **Contract ingestion and classification** - Load approved agreements..."

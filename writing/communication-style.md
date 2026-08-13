@@ -50,6 +50,8 @@ Examples:
 5. **User burden** - Reduce it by applying VG knowledge, existing documentation, earlier discovery outputs, and targeted workshops.
 6. **Roadmap** - Leave PSEG with an actionable plan for a future data lake, self-service analytics, optimization, and AI program.
 
+Caught in the KwikTrip proposal teardown (2026-08-12), a violation rather than an example to follow: "Ranked sourcing and movement recommendations by the agreed business dimensions." A plain descriptive bullet with no keyword lead, repeated across the whole list. Rewrite as, for example, "**Ranked recommendations** - Sourcing and movement options ranked by the agreed business dimensions."
+
 ## Punctuation
 
 ### Em Dashes
@@ -72,6 +74,34 @@ A hyphen-dash is the default separator or introductory punctuation in copy, not 
 2. A colon is acceptable where a list carries multiple separators and a hyphen-dash would read ambiguously.
 3. Colons are also acceptable in list labels that are part of structured document formatting (e.g., "To:", "Subject:" in email headers)
 4. This applies to emails, documents, chat responses, and all other content.
+
+### Semicolons
+
+Never chain multiple items or independent clauses together with semicolons in place of a real list. This is a strong AI-drafting tell, a sentence trying to hide a list inside prose.
+
+1. If there are multiple distinct items, use a numbered list, not semicolon-joined clauses.
+2. If there are exactly two independent clauses, use a period and start a new sentence, or a hyphen-dash if one clause is clearly the explanation of the other.
+3. Caught in the KwikTrip proposal teardown (2026-08-12): "Source systems remain authoritative; the new applications consolidate data for decision support." Two independent clauses forced together. Rewrite as two sentences.
+4. A more extreme version, same teardown, a table cell: "Versioned ARB, netback, freight, allocation, and optimization services; nightly work queue; scenario review; approval; export; alerts; run history; test evidence." Eight items chained with semicolons standing in for a numbered list. This is what a hidden list looks like, break it into one.
+
+## Numbers
+
+### Time Units, Whole Numbers Only
+
+Never state a duration in fractional units a reader cannot picture, such as "2.3 months" or "0.3 weeks." Humans do not have an intuitive sense of a third of a month.
+
+1. Round up to the next whole unit, not to the nearest one. "2.3 months" becomes "3 months," not "2 months." Rounding a favorable duration (payback, time to value) down overpromises speed. Rounding up is the conservative, defensible direction.
+2. If the precision genuinely matters, switch to a smaller whole unit instead of using a fraction of a larger one, "10 weeks" rather than "2.3 months."
+3. This applies everywhere a duration appears, not only value or ROI sections: timelines, payback periods, project lengths, anywhere a time span is stated.
+4. Caught in the KwikTrip proposal teardown (2026-08-12): "Illustrative payback: 2.3 months." Rewrite as "Time to payback: 3 months."
+
+### Redundant Total Restatement
+
+Once a headline figure is established in a table, a callout, or a stat, later sentences reference it descriptively, "this estimate," "the total," rather than repeating the specific number.
+
+1. A figure that reappears verbatim in a heading, an assumption, and a callout has not been emphasized, it has been duplicated. The reader remembers a number better when it appears once, in the place built to hold it, than when it is scattered through the document.
+2. This applies to any document with a headline number stated more than once: proposals, reports, emails, status updates.
+3. Caught in the KwikTrip proposal teardown (2026-08-12): $585,600 appeared in the section heading, the pricing table's total row, a workstream allocation table's total row, a Key Assumptions bullet, and an "authorize now" callout, five separate places for one number.
 
 ## Links and URLs
 
