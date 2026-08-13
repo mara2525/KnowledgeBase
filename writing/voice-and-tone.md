@@ -70,6 +70,34 @@ Never use comma-paired contrasting phrases in any content.
 6. This applies to all content: chat responses, documentation, emails, UI copy, headers, release notes, everything.
 7. Caught in the KwikTrip proposal draft (2026-08-12), and worth noting because Claude wrote it while actively enforcing this exact rule elsewhere in the same document: "Contract terms get re-derived, not looked up" and "Commercial capacity goes to assembly, not analysis." Both went into a first-draft rewrite meant to fix other violations. The lesson isn't just for the source document, generated content needs the same check applied to it before it's presented, not just the material being edited.
 8. The pattern isn't limited to the literal "X, not Y" contrast. Short parallel phrases joined by a comma for rhythm, with no "not" at all, read the same way to a reader: sloganeering rather than a plain statement. Also caught in the KwikTrip draft, in section subtitles specifically, which are short by design and where this temptation is strongest: "Three problems, one root cause: manual assembly of data that already exists" and "One shared foundation, built once, carries both projects and future AI work." Neither uses "not," both still read as a slogan. Rewritten plainly: "All three problems trace to manual assembly of data that already exists" and "A single shared foundation supports both projects and future AI work."
+9. The trailing tag clause is the same violation in its third form. A short line, then a comma, then a fragment appended to qualify or address it. Caught on the KwikTrip proposal cover (2026-08-12): "Two production projects built on one shared AI foundation, for Kwik Trip." Mara's call was direct, this is the comma-paired slogan pattern she has explicitly ruled out, and the tag was redundant on top of it. Rewritten as one unbroken phrase: "An enterprise AI foundation and two production use cases in fuel supply and trading." The check is mechanical. In any title, subtitle, heading, or callout label, a comma is a defect until proven otherwise. Rewrite the line so it does not need one.
+
+## Naming the Reader in a Document Addressed to Them
+
+Never tell a reader something the document has already established about them.
+
+1. A proposal addressed to a client is obviously for that client. Appending "for [Client]" to its title, subtitle, heading, or callout label adds no information and weakens the line it sits on.
+2. Caught on the KwikTrip proposal cover (2026-08-12): "for Kwik Trip" trailing the cover subtitle, on a page that already carried "KWIK TRIP" as its label and "Prepared for: Kwik Trip" in the metadata block. Three statements of the same fact on one page.
+3. The rule generalizes past the client name. Any restatement of context the reader already holds, the document's own purpose, the recipient's identity, the date they received it, is filler occupying a position that should carry meaning.
+4. Naming the reader inside body prose is a different thing and stays correct. A sentence describing what their team does needs a subject.
+
+## Qualifiers With No Alternative
+
+A modifier earns its place only when it distinguishes the noun from something the reader might otherwise assume.
+
+1. Ask what the qualifier is ruling out. If nothing in the document offers the alternative, the word is filler.
+2. Caught on the KwikTrip proposal cover (2026-08-12): "Production Implementation Proposal." Mara's reasoning, which is the test itself: implementing already means putting something into production, and nothing anywhere in the document offers a pilot or a proof of concept, so "production" rules out nothing. Cut to "Implementation Proposal."
+3. The same word can be earned in one place and filler in another. "Production-ready platform" in a deliverables list does real work, since a prototype is a plausible alternative for that specific item. Judge each instance against what the surrounding content actually offers.
+4. Common offenders: production, comprehensive, end-to-end, full, complete, strategic, enterprise-grade, custom. Each one is fine when a real alternative exists and dead weight when it does not.
+
+## Register in Short, High-Visibility Copy
+
+Cover subtitles, section titles, and callout labels get written at a higher register than body prose.
+
+1. Plainspoken language is the rule everywhere else, and it does not mean flat. In the few lines a reader sees first, write the way a top-tier strategy firm writes: concise and elevated, every word carrying weight.
+2. Operational phrasing in these positions reads as an internal work order. "Two production projects built on one shared AI foundation" describes a build plan. "An enterprise AI foundation and two production use cases in fuel supply and trading" describes an engagement.
+3. Elevated does not license the banned vocabulary, the slogan patterns, or an unfalsifiable claim. It means naming the work precisely and at the right altitude, then stopping.
+4. Mara's standing reference point for this register: how McKinsey, Deloitte, or Accenture would phrase the same line.
 
 ## Opaque Shorthand
 
