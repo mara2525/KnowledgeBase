@@ -84,6 +84,14 @@ Never chain multiple items or independent clauses together with semicolons in pl
 3. Caught in the KwikTrip proposal teardown (2026-08-12): "Source systems remain authoritative; the new applications consolidate data for decision support." Two independent clauses forced together. Rewrite as two sentences.
 4. A more extreme version, same teardown, a table cell: "Versioned ARB, netback, freight, allocation, and optimization services; nightly work queue; scenario review; approval; export; alerts; run history; test evidence." Eight items chained with semicolons standing in for a numbered list. This is what a hidden list looks like, break it into one.
 
+### Connector-Chained Run-Ons
+
+Never fuse multiple distinct topics or facts into one sentence using prepositional or participial connectors like "with," "alongside," "while," or "as well as." This is the comma-and-preposition version of the semicolon problem above, a run-on hiding multiple ideas instead of a list.
+
+1. A sentence carries one idea. If a connector word is introducing a second, unrelated fact or topic, that fact belongs in its own sentence.
+2. This is especially common in status and weekly summaries, where every open workstream gets crammed into one opening sentence.
+3. Caught in the SCC CEO Weekly Report (2026-08-15): "This week's work centered on the CFE International engagement, with kickoff held August 17 and discovery meetings scoped across finance, risk, operations, and commercial stakeholders, alongside finalizing the Kwik Trip AI Foundation and Commercial Optimization proposal." Two unrelated engagements (CFE International and Kwik Trip) fused via "alongside," and the CFE International clause alone already stacks two facts (kickoff date, discovery scope) via "with... and." Rewrite as three sentences: "This week's work centered on the CFE International engagement. Kickoff was held August 17, with discovery meetings scoped across finance, risk, operations, and commercial stakeholders. The team also finalized the Kwik Trip AI Foundation and Commercial Optimization proposal."
+
 ## Numbers
 
 ### Time Units, Whole Numbers Only
@@ -102,6 +110,15 @@ Once a headline figure is established in a table, a callout, or a stat, later se
 1. A figure that reappears verbatim in a heading, an assumption, and a callout has not been emphasized, it has been duplicated. The reader remembers a number better when it appears once, in the place built to hold it, than when it is scattered through the document.
 2. This applies to any document with a headline number stated more than once: proposals, reports, emails, status updates.
 3. Caught in the KwikTrip proposal teardown (2026-08-12): $585,600 appeared in the section heading, the pricing table's total row, a workstream allocation table's total row, a Key Assumptions bullet, and an "authorize now" callout, five separate places for one number.
+
+### Count Drift (Stated Number Doesn't Match the List)
+
+Never state a specific count and then append additional instances of that same category afterward with "plus," "as well as," or "along with." The reader is told a number, then shown more than that number, a miscount in plain sight.
+
+1. Tally the complete list first, then state the count. Do not write the number before the full set of items is assembled.
+2. If an item was drafted or remembered after the count was already written, go back and revise the number, do not bolt the item on with a connector word.
+3. This is especially likely when items in the same category come from more than one source (e.g., some folded into other sections, some listed standalone), since it is easy to count only the source in front of you and miss the rest.
+4. Caught in the SCC CEO Weekly Report (2026-08-15): "Two networking meetings, Quinn and Harrison from The Farmer's Dog and independent consultant Matt Bernier, plus a networking call with Andrew Brummer on AI." Three meetings are described, the stated count says two. Rewrite as "Three networking meetings: Quinn and Harrison (The Farmer's Dog), independent consultant Matt Bernier, and Andrew Brummer (AI discussion)."
 
 ## Links and URLs
 
